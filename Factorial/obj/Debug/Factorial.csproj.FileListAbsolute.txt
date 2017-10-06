@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\bin\Debug\Factorial.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\obj\Debug\Factorial.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Factorial\obj\Debug\Factorial.pdb

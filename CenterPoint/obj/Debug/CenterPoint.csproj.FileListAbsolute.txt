@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\bin\Debug\CenterPoint.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\CenterPoint\obj\Debug\CenterPoint.pdb

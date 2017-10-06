@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\bin\Debug\PrimeInGivenRange.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\PrimeInGivenRange\obj\Debug\PrimeInGivenRange.pdb

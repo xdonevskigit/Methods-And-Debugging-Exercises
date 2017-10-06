@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\bin\Debug\NumbersInREversedOrder.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\bin\Debug\NumbersInREversedOrder.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\bin\Debug\NumbersInREversedOrder.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\obj\Debug\NumbersInREversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\obj\Debug\NumbersInREversedOrder.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\NumbersInREversedOrder\obj\Debug\NumbersInREversedOrder.pdb

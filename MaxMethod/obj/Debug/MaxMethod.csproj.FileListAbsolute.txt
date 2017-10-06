@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\bin\Debug\MaxMethod.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\bin\Debug\MaxMethod.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\bin\Debug\MaxMethod.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\obj\Debug\MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\obj\Debug\MaxMethod.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\MaxMethod\obj\Debug\MaxMethod.pdb

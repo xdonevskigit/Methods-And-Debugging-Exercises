@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\bin\Debug\SequenceOfComments.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\bin\Debug\SequenceOfComments.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\bin\Debug\SequenceOfComments.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\obj\Debug\SequenceOfComments.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\obj\Debug\SequenceOfComments.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\obj\Debug\SequenceOfComments.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\SequenceOfComments\obj\Debug\SequenceOfComments.pdb

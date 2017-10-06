@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\bin\Debug\FactorialTrailingZeroes.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\FactorialTrailingZeroes\obj\Debug\FactorialTrailingZeroes.pdb

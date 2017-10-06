@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

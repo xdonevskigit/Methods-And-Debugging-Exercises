@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\bin\Debug\Substring.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\bin\Debug\Substring.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\bin\Debug\Substring.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\obj\Debug\Substring.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\obj\Debug\Substring.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\Substring\obj\Debug\Substring.pdb

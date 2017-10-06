@@ -1,0 +1,6 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\bin\Debug\EnglishNameOfLastDigit.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\EnglishNameOfLastDigit\obj\Debug\EnglishNameOfLastDigit.pdb

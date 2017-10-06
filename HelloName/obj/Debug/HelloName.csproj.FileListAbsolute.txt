@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\bin\Debug\HelloName.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\bin\Debug\HelloName.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\obj\Debug\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\obj\Debug\HelloName.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\HelloName\obj\Debug\HelloName.pdb

@@ -1,0 +1,7 @@
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\obj\Debug\InstructionSet.csproj.CoreCompileInputs.cache
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\obj\Debug\InstructionSet.pdb
+C:\Users\Icaka\source\repos\ExercisesMethodsAndDebugging\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
